@@ -7,7 +7,6 @@ Source - https://stackoverflow.com/a/12118349
 Posted by waldyr.ar, modified by community. See post 'Timeline' for change history
 Retrieved 2026-06-23, License - CC BY-SA 4.0
 -->
-
 <p align="center">
   <img src="https://media.discordapp.net/attachments/582066542083178508/1518863706908266606/24176d6b.gif?ex=6a3b778e&is=6a3a260e&hm=43bcb0ffc371c79b483a5095809cd63aa228c1aba0f55d1231bfcb94b6163ed1&=" />
 </p>
