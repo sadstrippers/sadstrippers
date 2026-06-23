@@ -1,6 +1,6 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4d4xf8vl2k2ryj1qs0dr5nn7a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-![image](https://pbs.twimg.com/media/HHVtTV9XAAAnMKw?format=jpg&name=large)
+![image](https://media.discordapp.net/attachments/582066542083178508/1518853278618877992/HHVtTV9XAAAnMKw_1.jpg?ex=6a3b6dd8&is=6a3a1c58&hm=b1afaeecd40deb48caf683f1601499998b6fa9f2db11fbe819728d86e66e8f3b&=&format=webp&width=1348&height=846)
 
 ![](https://komarev.com/ghpvc/?username=slaughterwolf&label=twins&color=ffffff)
 
