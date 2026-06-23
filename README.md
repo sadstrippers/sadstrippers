@@ -2,8 +2,7 @@
 ㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![image](https://media.discordapp.net/attachments/582066542083178508/1518858915964649472/IMG_6342.png?ex=6a3b7318&is=6a3a2198&hm=cf6ff6309aaa9c9f01536d31a2242ed7f6f5b29e636b97d57a42cffbfd15c2c7&=&format=webp&quality=lossless&width=951&height=951)
-
-![image](https://media.discordapp.net/attachments/582066542083178508/1518863706908266606/24176d6b.gif?ex=6a3b778e&is=6a3a260e&hm=43bcb0ffc371c79b483a5095809cd63aa228c1aba0f55d1231bfcb94b6163ed1&=)
+![image](https://media.discordapp.net/attachments/582066542083178508/1518863706908266606/24176d6b.gif?ex=6a3b778e&is=6a3a260e&hm=43bcb0ffc371c79b483a5095809cd63aa228c1aba0f55d1231bfcb94b6163ed1&=) ![image](https://media.discordapp.net/attachments/582066542083178508/1518863706908266606/24176d6b.gif?ex=6a3b778e&is=6a3a260e&hm=43bcb0ffc371c79b483a5095809cd63aa228c1aba0f55d1231bfcb94b6163ed1&=)
 ![image](https://media.discordapp.net/attachments/582066542083178508/1518853278618877992/HHVtTV9XAAAnMKw_1.jpg?ex=6a3b6dd8&is=6a3a1c58&hm=b1afaeecd40deb48caf683f1601499998b6fa9f2db11fbe819728d86e66e8f3b&=&format=webp&width=1348&height=846)
 
 ![](https://komarev.com/ghpvc/?username=slaughterwolf&label=twins&color=ffffff)
