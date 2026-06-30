@@ -8,7 +8,7 @@
 
 ![image](https://media.discordapp.net/attachments/582066542083178508/1518853278618877992/HHVtTV9XAAAnMKw_1.jpg?ex=6a44a858&is=6a4356d8&hm=9e67496d7f8b269f67b680f7823f5f0c045e36dda57b542fb605177f2c400d3f&=&format=webp&width=1881&height=1181)
 
-![image](https://media.discordapp.net/attachments/582066542083178508/1518862134857957426/IMG_6344.png?ex=6a3b7618&is=6a3a2498&hm=6de25fcb61456b21694f686c396b616d6f10b14383d2211ea8869562410d0095&=&format=webp&quality=lossless&width=951&height=951)
+![image](https://media.discordapp.net/attachments/582066542083178508/1518862134857957426/IMG_6344.png?ex=6a4407d8&is=6a42b658&hm=44cdce2f0d61be38da47c6f49ddfc4a311d776c9f3abe0673db96d87444fadff&=&format=webp&quality=lossless&width=1227&height=1227)
 
 ![](https://komarev.com/ghpvc/?username=slaughterwolf&label=twins&color=ffffff)
 
